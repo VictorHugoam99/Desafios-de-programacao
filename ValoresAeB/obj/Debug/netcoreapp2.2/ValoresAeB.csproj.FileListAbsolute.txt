@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\bin\Debug\netcoreapp2.2\ValoresAeB.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\bin\Debug\netcoreapp2.2\ValoresAeB.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\bin\Debug\netcoreapp2.2\ValoresAeB.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\bin\Debug\netcoreapp2.2\ValoresAeB.dll
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\bin\Debug\netcoreapp2.2\ValoresAeB.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\obj\Debug\netcoreapp2.2\ValoresAeB.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\obj\Debug\netcoreapp2.2\ValoresAeB.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\obj\Debug\netcoreapp2.2\ValoresAeB.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\obj\Debug\netcoreapp2.2\ValoresAeB.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\obj\Debug\netcoreapp2.2\ValoresAeB.dll
+C:\Users\23871167800\Documents\Desafios de progamação\ValoresAeB\obj\Debug\netcoreapp2.2\ValoresAeB.pdb

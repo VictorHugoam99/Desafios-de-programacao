@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\bin\Debug\netcoreapp2.2\AlgoritmosSimples.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\bin\Debug\netcoreapp2.2\AlgoritmosSimples.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\bin\Debug\netcoreapp2.2\AlgoritmosSimples.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\bin\Debug\netcoreapp2.2\AlgoritmosSimples.dll
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\bin\Debug\netcoreapp2.2\AlgoritmosSimples.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\obj\Debug\netcoreapp2.2\AlgoritmosSimples.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\obj\Debug\netcoreapp2.2\AlgoritmosSimples.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\obj\Debug\netcoreapp2.2\AlgoritmosSimples.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\obj\Debug\netcoreapp2.2\AlgoritmosSimples.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\obj\Debug\netcoreapp2.2\AlgoritmosSimples.dll
+C:\Users\23871167800\Documents\Desafios de progamação\AlgoritmosSimples\obj\Debug\netcoreapp2.2\AlgoritmosSimples.pdb
