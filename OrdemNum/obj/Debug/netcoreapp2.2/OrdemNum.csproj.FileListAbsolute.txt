@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\bin\Debug\netcoreapp2.2\OrdemNum.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\bin\Debug\netcoreapp2.2\OrdemNum.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\bin\Debug\netcoreapp2.2\OrdemNum.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\bin\Debug\netcoreapp2.2\OrdemNum.dll
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\bin\Debug\netcoreapp2.2\OrdemNum.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\obj\Debug\netcoreapp2.2\OrdemNum.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\obj\Debug\netcoreapp2.2\OrdemNum.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\obj\Debug\netcoreapp2.2\OrdemNum.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\obj\Debug\netcoreapp2.2\OrdemNum.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\obj\Debug\netcoreapp2.2\OrdemNum.dll
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemNum\obj\Debug\netcoreapp2.2\OrdemNum.pdb

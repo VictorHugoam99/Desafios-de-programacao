@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\bin\Debug\netcoreapp2.2\OrdemAlfab.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\bin\Debug\netcoreapp2.2\OrdemAlfab.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\bin\Debug\netcoreapp2.2\OrdemAlfab.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\bin\Debug\netcoreapp2.2\OrdemAlfab.dll
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\bin\Debug\netcoreapp2.2\OrdemAlfab.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\obj\Debug\netcoreapp2.2\OrdemAlfab.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\obj\Debug\netcoreapp2.2\OrdemAlfab.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\obj\Debug\netcoreapp2.2\OrdemAlfab.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\obj\Debug\netcoreapp2.2\OrdemAlfab.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\obj\Debug\netcoreapp2.2\OrdemAlfab.dll
+C:\Users\23871167800\Documents\Desafios de progamação\OrdemAlfab\obj\Debug\netcoreapp2.2\OrdemAlfab.pdb

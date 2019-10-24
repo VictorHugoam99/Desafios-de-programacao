@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\bin\Debug\netcoreapp2.2\Multi3.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\bin\Debug\netcoreapp2.2\Multi3.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\bin\Debug\netcoreapp2.2\Multi3.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\bin\Debug\netcoreapp2.2\Multi3.dll
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\bin\Debug\netcoreapp2.2\Multi3.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\obj\Debug\netcoreapp2.2\Multi3.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\obj\Debug\netcoreapp2.2\Multi3.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\obj\Debug\netcoreapp2.2\Multi3.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\obj\Debug\netcoreapp2.2\Multi3.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\obj\Debug\netcoreapp2.2\Multi3.dll
+C:\Users\23871167800\Documents\Desafios de progamação\Multi3\obj\Debug\netcoreapp2.2\Multi3.pdb

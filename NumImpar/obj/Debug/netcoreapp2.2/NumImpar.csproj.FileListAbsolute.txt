@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\bin\Debug\netcoreapp2.2\NumImpar.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\bin\Debug\netcoreapp2.2\NumImpar.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\bin\Debug\netcoreapp2.2\NumImpar.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\bin\Debug\netcoreapp2.2\NumImpar.dll
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\bin\Debug\netcoreapp2.2\NumImpar.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\obj\Debug\netcoreapp2.2\NumImpar.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\obj\Debug\netcoreapp2.2\NumImpar.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\obj\Debug\netcoreapp2.2\NumImpar.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\obj\Debug\netcoreapp2.2\NumImpar.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\obj\Debug\netcoreapp2.2\NumImpar.dll
+C:\Users\23871167800\Documents\Desafios de progamação\NumImpar\obj\Debug\netcoreapp2.2\NumImpar.pdb
