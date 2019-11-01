@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\bin\Debug\netcoreapp2.2\LimiteSup.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\bin\Debug\netcoreapp2.2\LimiteSup.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\bin\Debug\netcoreapp2.2\LimiteSup.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\bin\Debug\netcoreapp2.2\LimiteSup.dll
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\bin\Debug\netcoreapp2.2\LimiteSup.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\obj\Debug\netcoreapp2.2\LimiteSup.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\obj\Debug\netcoreapp2.2\LimiteSup.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\obj\Debug\netcoreapp2.2\LimiteSup.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\obj\Debug\netcoreapp2.2\LimiteSup.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\obj\Debug\netcoreapp2.2\LimiteSup.dll
+C:\Users\23871167800\Documents\Desafios de progamação\LimiteSup\obj\Debug\netcoreapp2.2\LimiteSup.pdb

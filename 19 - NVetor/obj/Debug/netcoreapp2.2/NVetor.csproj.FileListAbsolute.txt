@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\obj\Debug\netcoreapp2.2\NVetor.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\obj\Debug\netcoreapp2.2\NVetor.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\obj\Debug\netcoreapp2.2\NVetor.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\obj\Debug\netcoreapp2.2\NVetor.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\bin\Debug\netcoreapp2.2\NVetor.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\bin\Debug\netcoreapp2.2\NVetor.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\bin\Debug\netcoreapp2.2\NVetor.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\bin\Debug\netcoreapp2.2\NVetor.dll
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\bin\Debug\netcoreapp2.2\NVetor.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\obj\Debug\netcoreapp2.2\NVetor.dll
+C:\Users\23871167800\Documents\Desafios de progamação\NVetor\obj\Debug\netcoreapp2.2\NVetor.pdb

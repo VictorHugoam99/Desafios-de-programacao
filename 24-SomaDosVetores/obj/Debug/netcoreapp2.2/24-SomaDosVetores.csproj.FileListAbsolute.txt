@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\bin\Debug\netcoreapp2.2\24-SomaDosVetores.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\bin\Debug\netcoreapp2.2\24-SomaDosVetores.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\bin\Debug\netcoreapp2.2\24-SomaDosVetores.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\bin\Debug\netcoreapp2.2\24-SomaDosVetores.dll
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\bin\Debug\netcoreapp2.2\24-SomaDosVetores.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\obj\Debug\netcoreapp2.2\24-SomaDosVetores.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\obj\Debug\netcoreapp2.2\24-SomaDosVetores.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\obj\Debug\netcoreapp2.2\24-SomaDosVetores.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\obj\Debug\netcoreapp2.2\24-SomaDosVetores.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\obj\Debug\netcoreapp2.2\24-SomaDosVetores.dll
+C:\Users\23871167800\Documents\Desafios de progamação\24-SomaDosVetores\obj\Debug\netcoreapp2.2\24-SomaDosVetores.pdb

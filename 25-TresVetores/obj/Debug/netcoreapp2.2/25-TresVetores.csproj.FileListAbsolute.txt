@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\obj\Debug\netcoreapp2.2\25-TresVetores.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\obj\Debug\netcoreapp2.2\25-TresVetores.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\obj\Debug\netcoreapp2.2\25-TresVetores.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\obj\Debug\netcoreapp2.2\25-TresVetores.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\bin\Debug\netcoreapp2.2\25-TresVetores.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\bin\Debug\netcoreapp2.2\25-TresVetores.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\bin\Debug\netcoreapp2.2\25-TresVetores.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\bin\Debug\netcoreapp2.2\25-TresVetores.dll
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\bin\Debug\netcoreapp2.2\25-TresVetores.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\obj\Debug\netcoreapp2.2\25-TresVetores.dll
+C:\Users\23871167800\Documents\Desafios de progamação\25-TresVetores\obj\Debug\netcoreapp2.2\25-TresVetores.pdb

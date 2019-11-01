@@ -1,0 +1,11 @@
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\bin\Debug\netcoreapp2.2\23-Vetores10.deps.json
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\bin\Debug\netcoreapp2.2\23-Vetores10.runtimeconfig.json
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\bin\Debug\netcoreapp2.2\23-Vetores10.runtimeconfig.dev.json
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\bin\Debug\netcoreapp2.2\23-Vetores10.dll
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\bin\Debug\netcoreapp2.2\23-Vetores10.pdb
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\obj\Debug\netcoreapp2.2\23-Vetores10.csprojAssemblyReference.cache
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\obj\Debug\netcoreapp2.2\23-Vetores10.csproj.CoreCompileInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\obj\Debug\netcoreapp2.2\23-Vetores10.AssemblyInfoInputs.cache
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\obj\Debug\netcoreapp2.2\23-Vetores10.AssemblyInfo.cs
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\obj\Debug\netcoreapp2.2\23-Vetores10.dll
+C:\Users\23871167800\Documents\Desafios de progamação\23-Vetores10\obj\Debug\netcoreapp2.2\23-Vetores10.pdb
